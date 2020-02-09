@@ -5,6 +5,8 @@ public class User {
     private String name;
     private int age;
     private int phone;
+    private String addr;
     private String gender;
     private String score;
 }
+
