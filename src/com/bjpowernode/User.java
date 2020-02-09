@@ -9,5 +9,7 @@ public class User {
     private String gender;
     private String score;
     private int weight;
+    private int height;
+
 }
 
