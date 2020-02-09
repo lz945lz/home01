@@ -6,6 +6,7 @@ public class User {
     private int age;
     private int phone;
     private String addr;
-    private String  number;
+    private String gender;
+
 
 }
