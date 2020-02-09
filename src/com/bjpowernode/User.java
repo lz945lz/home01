@@ -8,5 +8,6 @@ public class User {
     private String addr;
     private String gender;
     private String score;
+    private int weight;
 }
 
