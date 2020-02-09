@@ -7,6 +7,6 @@ public class User {
     private int phone;
     private String addr;
     private String gender;
-
+    private String score;
 
 }
